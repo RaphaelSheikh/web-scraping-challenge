@@ -1,5 +1,5 @@
 # Web Scraping Challenge
-![image](https://github.com/user-attachments/assets/e6f5949c-6658-4701-b57e-84df7b3fa3d4)
+![image](https://github.com/user-attachments/assets/ffa11995-9d77-4aa6-b9c5-1c77ec4e453c)
 
 # Background
 I am now ready to take on a full web-scraping and data analysis project. I’ve learned to identify HTML elements on a page, identify their **`id`** and **`class`** attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
