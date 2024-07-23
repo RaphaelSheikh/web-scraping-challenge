@@ -69,7 +69,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 # Resources
 
-  * The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech. (https://static.bc-edx.com/data/web/mars_news/index.html / https://science.nasa.gov/mars/)
+  * The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech. (https://static.bc-edx.com/data/web/mars_news/index.html | https://science.nasa.gov/mars/ | https://www.jpl.nasa.gov/jpl-image-use-policy)
   * Python Web Scraping Tutorial (https://www.geeksforgeeks.org/python-web-scraping-tutorial/)
   * Convert DateTime to integer (https://www.geeksforgeeks.org/how-to-convert-datetime-to-integer-in-python/)
   * pandas.DataFrame.astype (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html)
